@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julienne! <br/><a href="https://github.com//jul3z08101"> Aspiring Data Scientist </a>, <a href="https://www.linkedin.com/in/julienne-c-0b2a067a/">Data Analytics Professional</a>
+<h1>Hi, I'm Julienne! <br/><a href="https://github.com//jul3z08101"> Data Science </a>, <a href="https://www.linkedin.com/in/julienne-c-0b2a067a/">Machine Learning Enthusiast </a>
 
 <h2>👨‍💻 Data Analytics Projects </h2>
 
