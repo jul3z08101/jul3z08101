@@ -1,20 +1,22 @@
 <h1> Unlocking Insights: <br> Healthcare, Finance, Data Science & Machine Learning
 
-<h2>👨‍💻 Data Analytics Research Projects </h2>
+<h2>👨‍💻 Research Projects </h2>
 
   - <b>[Task-Agnostic Parkinson's Disease Machine Learning Model](https://github.com/jul3z08101/Analytics-Research/blob/main/Capstone%20Project-%20Parkinsons%20Disease%20(1).pdf) </b>
 
-  - <b>[Demographic and Risk Factors Analysis in Inmate Populations](https://github.com/jul3z08101/Analytics-Research/blob/main/Capstone%20Project-%20Parkinsons%20Disease%20(1).pdf) </b>
-  - <b> [BRACA 2 Gene Mutation Research](https://github.com/jul3z08101/Analytics-Research/blob/main/BRACA%202.pdf) </b>
+   - <b>[Demographic and Risk Factors Analysis in Inmate Populations](https://github.com/jul3z08101/Analytics-Research/blob/main/Capstone%20Project-%20Parkinsons%20Disease%20(1).pdf) </b>
+   - <b> [BRACA 2 Gene Mutation Research](https://github.com/jul3z08101/Analytics-Research/blob/main/BRACA%202.pdf) </b>
 
-- <b>Python</b>
+- <b>Data Analysis</b>
+  -
+  - [Maternal Health Analysis in Excel](https://github.com/jul3z08101/Data-Analysis-lab/tree/main)
+    
+- <b>Machine Learning</b>
   -
   - <b> [Machine Learning Bootcamp Curriculum Development](https://github.com/jul3z08101/Data-Analysis-lab/blob/main/Capstone_Project_Instructor.ipynb)</b>
-- <b>Excel</b>
-  -
-  - [Maternal Health Analysis](https://github.com/jul3z08101/Data-Analysis-lab/tree/main)
+
     
-- <b>Tableau</b>
+- <b> Visuals and Charts </b>
   - 
 
 
