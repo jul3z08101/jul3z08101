@@ -1,4 +1,4 @@
-<h1>~ Julienne's Profile ~ <br/><a href="https://github.com//jul3z08101"> Data Science </a>, <a href="https://www.linkedin.com/in/julienne-c-0b2a067a/"> Machine Learning </a>
+<h1> Unlocking Insights with Julienne: <br> Healthcare, Finance, Data Science & Machine Learning
 
 <h2>👨‍💻 Data Analytics Research Projects </h2>
 
