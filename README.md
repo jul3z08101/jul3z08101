@@ -1,4 +1,4 @@
-<h1> Unlocking Insights with Julienne: <br> Healthcare, Finance, Data Science & Machine Learning
+<h1> Unlocking Insights: <br> Healthcare, Finance, Data Science & Machine Learning
 
 <h2>👨‍💻 Data Analytics Research Projects </h2>
 
