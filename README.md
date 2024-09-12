@@ -6,12 +6,12 @@
 
 - <b>[Demographic and Risk Factors Analysis in Inmate Populations](https://github.com/jul3z08101/Analytics-Research/blob/main/Capstone%20Project-%20Parkinsons%20Disease%20(1).pdf) </b>
 
-- <b> [Machine Learning Bootcamp Curriculum Development](https://github.com/jul3z08101/Data-Analysis-lab/blob/main/Capstone_Project_Instructor.ipynb)</b>
+
 
 - <b> [BRACA 2 Gene Mutation Research](https://github.com/jul3z08101/Analytics-Research/blob/main/BRACA%202.pdf) </b>
 
 - <b>Python</b>
-  -
+  - <b> [Machine Learning Bootcamp Curriculum Development](https://github.com/jul3z08101/Data-Analysis-lab/blob/main/Capstone_Project_Instructor.ipynb)</b>
 - <b>Excel</b>
   -
   - [Maternal Health Analysis](https://github.com/jul3z08101/Data-Analysis-lab/tree/main)
