@@ -13,17 +13,19 @@
     
 - <b>Machine Learning</b>
   -
-  - <b> [Machine Learning Bootcamp Curriculum Development](https://github.com/jul3z08101/Data-Analysis-lab/blob/main/Capstone_Project_Instructor.ipynb)</b>
+  -  [Machine Learning Bootcamp Curriculum Development](https://github.com/jul3z08101/Data-Analysis-lab/blob/main/Capstone_Project_Instructor.ipynb)
 
     
-- <b> Visuals and Charts </b>
-  - 
+- <b> Additional Work </b> 
+  - [Aunty Euginia Content Creator Website](https://github.com/jul3z08101/Aunty_eugenia_website)
 
 
 
 <h2>📺 YouTube Videos</h2>
 
 -[Maternal Health Risk Analysis in Excel](https://youtu.be/6l9zIHqpmDU)
+
+-[Aunty Eugenia's Website](https://www.youtube.com/watch?v=LGyqnxhlgy0)
 
 <h2> 🤳 Connect with me:</h2>
 
