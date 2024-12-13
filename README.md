@@ -25,7 +25,7 @@
 
 -[Maternal Health Risk Analysis in Excel](https://youtu.be/6l9zIHqpmDU)
 
--[Aunty Eugenia's Website](https://www.youtube.com/watch?v=LGyqnxhlgy0)
+-[Aunty Eugenia's Blog Website](https://www.youtube.com/watch?v=LGyqnxhlgy0)
 
 <h2> 🤳 Connect with me:</h2>
 
